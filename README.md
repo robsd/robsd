@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Robert Dixon
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning BSc (Hons) Computer Science
+- 💞️ I’m looking to collaborate on web applications
+- 📫 How to reach me www.robertd.co.uk
