@@ -39,4 +39,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" width="420">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&theme=dark&layout=compact">
+<div>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&theme=dark&layout=compact" width="420">
+	<img src="https://readme-jokes.vercel.app/api" width="420">
+</div>
