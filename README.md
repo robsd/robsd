@@ -47,5 +47,4 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div>
 	<img src="https://readme-jokes.vercel.app/api" width="420">
-	<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" width="420">
 </div>
