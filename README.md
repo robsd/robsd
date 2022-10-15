@@ -40,7 +40,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 <div>
-	<img src="https://raw.githubusercontent.com/robsd/github-stats-terminal-style/master/github_stats.svg?token=GHSAT0AAAAAABZLYWNR65KWRKOAKJIY4VJAY2K3FMQ">
+	<img src="images/github_stats.svg">
 </div>
 
 <h2>🥳 Bit of Fun:</h2>
