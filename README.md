@@ -40,6 +40,12 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&theme=dark&layout=compact" width="420">
+	<img src="https://raw.githubusercontent.com/robsd/github-stats-terminal-style/master/github_stats.svg?token=GHSAT0AAAAAABZLYWNR65KWRKOAKJIY4VJAY2K3FMQ">
+</div>
+
+<h2>🥳 Bit of Fun:</h2>
+
+<div>
 	<img src="https://readme-jokes.vercel.app/api" width="420">
+	<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" width="420">
 </div>
