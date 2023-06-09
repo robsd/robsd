@@ -72,4 +72,5 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div>
 	<img src="https://readme-jokes.vercel.app/api">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&background_color=121212&interchange=true&bar_color_cover=true">
 </div>
