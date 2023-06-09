@@ -28,7 +28,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>❤️ Support Me</h2>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F34TIDQ)
-<a href="https://www.buymeacoffee.com/robsd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;"></a>
+<a href="https://www.buymeacoffee.com/robsd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
 
 
 <h2>🛠 Languages and Tools:</h2>
