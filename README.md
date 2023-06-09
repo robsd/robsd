@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
@@ -15,7 +14,7 @@
 </div>
 
 
-<h2>👨🏻‍💻 About Me:</h2>
+<h2>👨🏻‍💻 About Me</h2>
 
 I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
 
@@ -25,13 +24,16 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 📫 You can reach me <a href="https://robsd.github.io">here</a>.
 - 🐙 On here, I publish small projects I work on in my spare time. If you like or use any of them, please star ⭐ the repos and consider supporting me below...
 
+
 <h2>❤️ Support Me</h2>
 
-<a href="https://www.buymeacoffee.com/robsd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45"></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F34TIDQ)
+<div>
+	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Support me on Ko-Fi"></a>
+	<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee"></a>
+</div>
 
 
-<h2>🛠 Languages and Tools:</h2>
+<h2>🛠 Languages and Tools</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,18 +62,19 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 
-<h2>📈 GitHub Stats:</h2>
+<h2>📈 GitHub Stats</h2>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" width="420">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" width="420">
+	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" height="200">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" height="200">
 </div>
 
 <div>
 	<img src="images/github_stats.svg">
 </div>
 
-<h2>🥳 Bit of Fun:</h2>
+
+<h2>🥳 Fun Stuff</h2>
 
 <div>
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
