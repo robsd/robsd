@@ -65,9 +65,9 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>📈 GitHub Stats</h2>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" width="450" height="200">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" width="450" height="200">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark" width="450" height="200">
+	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark">
 </div>
 
 <div>
