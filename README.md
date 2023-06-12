@@ -70,7 +70,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 <div>
-	<img src="images/github_stats.svg">
+	<img src="images/github_stats.svg" width="100%">
 </div>
 
 
