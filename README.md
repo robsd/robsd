@@ -6,8 +6,8 @@
 </div>
 
 <div align="center">
-	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://instagram.com/in/robstewartdixon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+	<a href="https://instagram.com/in/robstewartdixon"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
@@ -22,16 +22,15 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 💼 I'm working as an IT Specialist at Computacenter.
 - 🎓 I hold a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from cPanel, AWS, Qualys and Device42.
 - 🔭 My interests include Networking, Cyber Security, Web and Software Development.
-- 📫 You can reach me <a href="https://robsd.github.io">here</a>.
+- 📫 You can reach me <a href="https://robsd.github.io" target="_blank">here</a>.
 - 🐙 On here, I publish small projects I work on in my spare time. If you like or use any of them, please star ⭐ the repos and consider supporting me below...
 
 
 <h2>❤️ Support Me</h2>
 
 <div>
-<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"></a>
-	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-	
+	<a href="https://buymeacoffee.com/robsd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"></a>
+	<a href="https://ko-fi.com/robsd" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </div>
 
 
