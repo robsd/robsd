@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
@@ -28,8 +29,9 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>❤️ Support Me</h2>
 
 <div>
-	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="40" alt="Support me on Ko-Fi"></a>
-	<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee"></a>
+<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"></a>
+	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+	
 </div>
 
 
@@ -65,8 +67,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>📈 GitHub Stats</h2>
 
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" width="400" height="200">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" width="400" height="200">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark">
 </div>
 
