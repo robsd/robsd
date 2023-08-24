@@ -20,7 +20,7 @@
 I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
 
 - 💼 I'm working as an IT Specialist at Computacenter.
-- 🎓 I hold a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from cPanel, AWS, Qualys and Device42.
+- 🎓 I hold a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from AWS, Microsoft, cPanel, Qualys and Device42.
 - 🔭 My interests include Networking, Cyber Security, Web and Software Development.
 - 📫 You can reach me <a href="https://robsd.github.io">here</a>.
 - 🐙 On here, I publish small projects I work on in my spare time. If you like or use any of them, please star ⭐ the repos and consider supporting me below...
