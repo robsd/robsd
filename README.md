@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
-	<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
+	<img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 </div>
 
 <div align="center">
