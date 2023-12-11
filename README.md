@@ -14,8 +14,6 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 
-Welcome to my GitHub profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-
 I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
 
 - 💼 I'm working as an IT Specialist at Computacenter.
