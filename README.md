@@ -76,7 +76,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <h2>🥳 More Fun Stuff</h2>
 
 <div>
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
+	<img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon">
 	<img src="https://readme-jokes.vercel.app/api">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
 </div>
