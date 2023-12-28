@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 <div align="center">
