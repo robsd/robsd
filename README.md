@@ -1,11 +1,9 @@
-<header align="center">
+<div align="center">
 	<div><img src="images/header.png"></div>
-	<div>
-		<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-		<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-	</div>
+	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<div><img src="https://komarev.com/ghpvc/?username=robsd"></div>
-</header>
+</div>
 
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
@@ -19,14 +17,14 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🐙 On here, I publish small projects I work on in my spare time. If you like or use any of them, please star ⭐ the repos and consider supporting me below...
 
 
-<section align="center">
+<div align="center">
 	<h2>❤️ Support Me</h2>
 	<div><a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"></a></div>
 	<div><a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a></div>
-</section>
+</div>
 
 
-<section align="center">
+<div align="center">
 	<h2>🛠 Languages and Tools</h2>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -53,28 +51,28 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 	<img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 	<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
-</section>
+</div>
 
 
-<section align="center">
+<div align="center">
 	<h2>📈 GitHub Stats</h2>
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark">
 	<div><img src="images/github_stats.svg"></div>
-</section>
+</div>
 
 
-<section align="center">
+<div align="center">
 	<h2>🧐 Other Stats</h2>
 	<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true"></div>
 	<div><img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon"></div>
 	<div><img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
 	</div>
-</section>
+</div>
 
 
-<section align="center">
+<div align="center">
 	<h2> 😂 Funny</h2>
 	<div><img src="https://readme-jokes.vercel.app/api"></div>
-</section>
+</div>
