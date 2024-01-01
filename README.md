@@ -73,6 +73,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <div align="center">
-	<h2> 😂 Funny</h2>
+	<h2>😂 Bonus</h2>
 	<div><img src="https://readme-jokes.vercel.app/api"></div>
 </div>
