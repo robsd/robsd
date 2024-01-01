@@ -1,8 +1,10 @@
 
 <header align="center">
 	<div><img src="images/header.png"></div>
-	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+	<div>
+		<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+		<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+	</div>
 	<div><img src="https://komarev.com/ghpvc/?username=robsd"></div>
 </header>
 
@@ -60,7 +62,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark">
-	<img src="images/github_stats.svg">
+	<div><img src="images/github_stats.svg"></div>
 </section>
 
 
