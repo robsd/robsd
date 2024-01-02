@@ -60,7 +60,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" height="150">
 	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" height="150">
 	<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark"></div>
-	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg" height="400"></div>
+	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg" height="300"></div>
 </div>
 
 
@@ -74,8 +74,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div align="center">
 	<h2>💫 More</h2>
-	<img src="https://readme-jokes.vercel.app/api" height="200">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200">
-	<div><img src="https://randommeme-five.vercel.app" height="400"></div>
+	<img src="https://readme-jokes.vercel.app/api" height="150">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150">
+	<div><img src="https://randommeme-five.vercel.app" height="300"></div>
 	<div><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2DAC69"></div>
 </div>
