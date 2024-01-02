@@ -57,25 +57,25 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <div align="center">
 	<h2>📈 GitHub Stats</h2>
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" height="150">
-	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark" height="150">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
 	<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark"></div>
-	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg" height="300"></div>
+	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg"></div>
 </div>
 
 
 <div align="center">
 	<h2>🧐 Other Stats</h2>
 	<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" height="350">
-	<img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon" height="350">
+	<img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon">
 	<div><img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png"></div>
 </div>
 
 
 <div align="center">
 	<h2>💫 More</h2>
-	<img src="https://readme-jokes.vercel.app/api" height="100">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="100">
-	<div><img src="https://randommeme-five.vercel.app" height="300"></div>
+	<div><img src="https://readme-jokes.vercel.app/api"></div>
+	<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
+	<div><img src="https://randommeme-five.vercel.app"></div>
 	<div><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2DAC69"></div>
 </div>
