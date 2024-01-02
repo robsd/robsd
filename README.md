@@ -75,7 +75,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div align="center">
 	<h2>😂 Bonus</h2>
 	<div><img src="https://readme-jokes.vercel.app/api"></div>
-	<div><img src="https://randommeme-five.vercel.app"></div>
 	<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
+	<div><img src="https://randommeme-five.vercel.app"></div>
 	<div><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2DAC69"></div>
 </div>
