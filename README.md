@@ -1,6 +1,6 @@
 
 <div align="center">
-	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/header.png"></div>
+	<div><img src="images/header.png"></div>
 	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<div><img src="https://komarev.com/ghpvc/?username=robsd"></div>
@@ -60,7 +60,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark">
 	<img src="https://github-readme-stats.vercel.app/api?username=robsd&show_icons=true&theme=dark">
 	<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark"></div>
-	<div><img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg"></div>
+	<div><img src="images/github_stats.svg" width="350"></div>
 </div>
 
 
@@ -76,6 +76,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<h2>💫 More</h2>
 	<div><img src="https://readme-jokes.vercel.app/api"></div>
 	<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></div>
-	<div><img src="https://randommeme-five.vercel.app"></div>
+	<div><img src="https://randommeme-five.vercel.app" width="350"></div>
 	<div><img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2DAC69"></div>
 </div>
