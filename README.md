@@ -75,4 +75,5 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <div align="center">
 	<h2>😂 Bonus</h2>
 	<div><img src="https://readme-jokes.vercel.app/api"></div>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=2DAC69">
 </div>
