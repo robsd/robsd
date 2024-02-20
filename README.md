@@ -26,8 +26,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 			<td><a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a></td>
 		</tr>
 	</table>
-	<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="50"></a>
-	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="50"></a>
+	<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
+	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50"></a>
 </div>
 
 
