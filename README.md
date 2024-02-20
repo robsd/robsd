@@ -71,7 +71,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <div align="center">
-	<h2>📈 Other Stats</h2>
+	<h2>👀 Other Stats</h2>
 	<table>
 		<tr>
 			<td><img src="https://lanyard.kyrie25.me/api/172462402078507008"></td>
@@ -82,7 +82,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <!--
-Cool stuff that didn't make the cut :(
+Cool stuff that didn't make the cut 😭
 ---
 <img src="images/github_stats.svg">
 <img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg">
