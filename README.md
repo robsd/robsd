@@ -70,6 +70,17 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 
+<div align="center">
+	<h2>📈 Other Stats</h2>
+	<table>
+		<tr>
+			<td><img src="https://lanyard.kyrie25.me/api/172462402078507008" width="450"></td>
+			<td><img src=tryhackme-badges.s3.amazonaws.com/robsd.png" width="450"></td>
+		</tr>
+	</table>
+</div>
+
+
 <!--
 Cool stuff that didn't make the cut :(
 ---
@@ -77,7 +88,6 @@ Cool stuff that didn't make the cut :(
 <img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon">
-<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
 <img src="https://readme-jokes.vercel.app/api">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 <img src="https://randommeme-five.vercel.app" width="350">
