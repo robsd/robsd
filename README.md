@@ -26,8 +26,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 			<td><a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a></td>
 		</tr>
 	</table>
-	<a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"></a>
-	<a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50"></a>
 </div>
 
 
@@ -65,8 +63,8 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<h2>📈 GitHub Stats</h2>
 	<table>
 		<tr>
-			<td><img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark"></td>
-			<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark"></td>
+			<td><img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" width="200"></td>
+			<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark" width="200"></td>
 		</tr>
 	</table>
 </div>
