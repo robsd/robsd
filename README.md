@@ -75,7 +75,7 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<table>
 		<tr>
 			<td><img src="https://lanyard.kyrie25.me/api/172462402078507008" width="450"></td>
-			<td><img src=tryhackme-badges.s3.amazonaws.com/robsd.png" width="450"></td>
+			<td><img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png" width="450"></td>
 		</tr>
 	</table>
 </div>
