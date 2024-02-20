@@ -19,9 +19,15 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 <div align="center">
+	<table>
+		<tr>
+			<td><a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"></a></td>
+			<td><a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a></td>
+		</tr>
+	</table>
 	<h2>❤️ Support Me</h2>
-	<div><a href="https://buymeacoffee.com/robsd"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"></a></div>
-	<div><a href="https://ko-fi.com/robsd"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a></div>
+	<div></div>
+	<div></div>
 </div>
 
 
