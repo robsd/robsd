@@ -78,7 +78,7 @@
 		<tr>
 			<td>
 				<a href="https://go.robertd.uk/discord">
-					<img src="https://lanyard.kyrie25.me/api/172462402078507008">
+					<img src="https://lanyard.cnrad.dev/api/172462402078507008">
 				</a>
 			</td>
 			<td>
