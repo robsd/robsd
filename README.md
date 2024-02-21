@@ -5,20 +5,18 @@
 	<div><img src="https://komarev.com/ghpvc/?username=robsd"></div>
 </div>
 
-
-<h2 align="center">👨🏻‍💻 About Me</h2>
-
-I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.
-
-- 💼 I'm working as an IT Specialist at Computacenter.
-- 🎓 I hold a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from AWS, Microsoft, cPanel, Qualys and Device42.
-- 🔭 My interests include Networking, Cyber Security, Web and Software Development.
-- 📫 You can reach me <a href="https://robsd.github.io">here</a>.
-- 🐙 On here, I publish small projects I work on in my spare time. If you like or use any of them, please star ⭐ the repos and consider supporting me below...
-
+<div align="center">
+	<h2>👨🏻‍💻 About Me</h2>
+	<p>💼 IT Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.</p>
+ 	<p>🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.</p>
+  	<p>🔭 My interests include Networking, Cyber Security, Web and Software Development.</p>
+	<p>🐙 On here I publish small projects I work on in my spare time.</p>
+	<p>📫 Connect with me <a href="https://robsd.github.io">here</a>.</p>
+</div>
 
 <div align="center">
 	<h2>❤️ Support Me</h2>
+	<p>If you like or use any of my repos, please star ⭐ them and consider supporting me below...</p>
 	<table>
 		<tr>
 			<td>
@@ -34,7 +32,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 		</tr>
 	</table>
 </div>
-
 
 <div align="center">
 	<h2>🛠 Languages and Tools</h2>
@@ -65,7 +62,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 	<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
 </div>
 
-
 <div align="center">
 	<h2>📈 GitHub Stats</h2>
 	<table>
@@ -75,7 +71,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 		</tr>
 	</table>
 </div>
-
 
 <div align="center">
 	<h2>👀 Other Stats</h2>
@@ -94,7 +89,6 @@ I am a Computer Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 		</tr>
 	</table>
 </div>
-
 
 <!--
 Cool stuff that didn't make the cut 😭
