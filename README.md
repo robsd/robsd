@@ -96,15 +96,15 @@
 		</tr>
 		<tr>
 			<td>
-				<div>
-				<a href="https://github.com/robsd">
-					<img src="https://komarev.com/ghpvc/?username=robsd">
-				</a>
+				<div align="center">
+					<a href="https://github.com/robsd">
+						<img src="https://komarev.com/ghpvc/?username=robsd">
+					</a>
 				</div>
-				<div>
-				<a href="https://wakatime.com/@robsd">
-   					<img src="https://wakatime.com/badge/user/018cb193-183a-49a3-bb0b-f7a1e649f671.svg">
-				</a>
+				<div align="center">
+					<a href="https://wakatime.com/@robsd">
+	   					<img src="https://wakatime.com/badge/user/018cb193-183a-49a3-bb0b-f7a1e649f671.svg">
+					</a>
 				</div>
 			</td>
 			<td>
