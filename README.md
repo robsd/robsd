@@ -90,7 +90,7 @@
 		<tr>
 			<td>
 				<a href="https://wakatime.com/@robsd">
-   					<img src="https://wakatime.com/share/@robsd/147a0a1c-fa5c-48db-a4e9-8e09d02453ca.svg">
+   					<img src="https://wakatime.com/badge/user/018cb193-183a-49a3-bb0b-f7a1e649f671.svg">
 				</a>
 			</td>
 			<td>
