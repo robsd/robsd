@@ -89,11 +89,13 @@
 		</tr>
 		<tr>
 			<td>
-   				<img src="https://wakatime.com/share/@018cb193-183a-49a3-bb0b-f7a1e649f671/3551580e-0a7e-47fc-9fed-50fe00a4b572.svg">
-			</td>
-			<td>
 				<a href="https://tryhackme.com/p/robsd">
 					<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
+				</a>
+			</td>
+			<td>
+				<a href="https://wakatime.com/@robsd">
+   					<img src="https://wakatime.com/share/@018cb193-183a-49a3-bb0b-f7a1e649f671/3551580e-0a7e-47fc-9fed-50fe00a4b572.svg">
 				</a>
 			</td>
 		</tr>
