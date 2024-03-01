@@ -82,6 +82,16 @@
 				</a>
 			</td>
 			<td>
+				<a href="https://open.spotify.com/user/robstewartdixon">
+					<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td>
+   				<img src="https://wakatime.com/share/@018cb193-183a-49a3-bb0b-f7a1e649f671/3551580e-0a7e-47fc-9fed-50fe00a4b572.svg">
+			</td>
+			<td>
 				<a href="https://tryhackme.com/p/robsd">
 					<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
 				</a>
@@ -95,7 +105,6 @@ Cool stuff that didn't make the cut 😭
 ---
 <img src="images/github_stats.svg">
 <img src="https://raw.githubusercontent.com/robsd/robsd/main/images/github_stats.svg">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=robstewartdixon">
 <img src="https://readme-jokes.vercel.app/api">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
