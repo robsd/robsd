@@ -74,7 +74,7 @@
 
 <div align="center">
 	<h2>👀 Other Stats</h2>
-	<table>
+	<table align="center">
 		<tr>
 			<td>
 				<a href="https://go.robertd.uk/discord">
