@@ -67,12 +67,12 @@
 		<tr>
 			<td>
 				<a href="https://github.com/robsd?tab=repositories">
-					<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" height="200">
+					<img src="https://github-readme-streak-stats.herokuapp.com?user=robsd&theme=dark" height="200"/>
 				</a>
 			</td>
 			<td>
 				<a href="https://github.com/robsd?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark" height="200">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robsd&show_icons=true&locale=en&layout=compact&theme=dark" height="200"/>
 				</a>
 			</td>
 		</tr>
