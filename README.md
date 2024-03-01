@@ -72,7 +72,7 @@
 	</table>
 </div>
 
-<center align="center">
+<div align="center">
 	<h2>👀 Other Stats</h2>
 	<table>
 		<tr>
@@ -98,7 +98,7 @@
 			</td>
 		</tr>
 	</table>
-</center>
+</div>
 
 <!--
 Cool stuff that didn't make the cut 😭
