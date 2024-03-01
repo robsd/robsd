@@ -2,7 +2,7 @@
 	<div><img src="images/header.png"></div>
 	<a href="https://linkedin.com/in/robstewartdixon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-	<div><img src="https://komarev.com/ghpvc/?username=robsd"></div>
+	<div></div>
 </div>
 
 <div align="center">
@@ -89,6 +89,7 @@
 		</tr>
 		<tr>
 			<td>
+				<img src="https://komarev.com/ghpvc/?username=robsd">
 				<a href="https://wakatime.com/@robsd">
    					<img src="https://wakatime.com/badge/user/018cb193-183a-49a3-bb0b-f7a1e649f671.svg">
 				</a>
