@@ -72,9 +72,9 @@
 	</table>
 </div>
 
-<div align="center">
+<center align="center">
 	<h2>👀 Other Stats</h2>
-	<table align="center">
+	<table>
 		<tr>
 			<td>
 				<a href="https://go.robertd.uk/discord">
@@ -98,7 +98,7 @@
 			</td>
 		</tr>
 	</table>
-</div>
+</center>
 
 <!--
 Cool stuff that didn't make the cut 😭
