@@ -108,9 +108,11 @@
 				</div>
 			</td>
 			<td>
-				<a href="https://tryhackme.com/p/robsd">
-					<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
-				</a>
+				<div align="center">
+					<a href="https://tryhackme.com/p/robsd">
+						<img src="https://tryhackme-badges.s3.amazonaws.com/robsd.png">
+					</a>
+				</div>
 			</td>
 		</tr>
 	</table>
