@@ -9,7 +9,7 @@
 	<p>💼 IT Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.</p>
  	<p>🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.</p>
   	<p>🔭 My interests include Networking, Cyber Security, Web and Software Development.</p>
-	<p>🐙 On here, I publish small projects I work on in my spare time.</p>
+	<p>🐙 I like to share projects I develop during my free time.</p>
 	<p>📫 Connect with me <a href="https://robsd.github.io">here</a>.</p>
 </div>
 
