@@ -12,3 +12,10 @@
 ![playing](https://api.statusbadges.me/badge/playing/172462402078507008)
 ![vscode](https://api.statusbadges.me/badge/vscode/172462402078507008)
 [![spotify](https://api.statusbadges.me/badge/spotify/172462402078507008)](https://api.statusbadges.me/openspotify/172462402078507008)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=robsd)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsd&layout=compact&hide_border=true)</a>
+</details>
