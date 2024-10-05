@@ -4,6 +4,10 @@
 	<a href="https://discord.com/users/172462402078507008"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
+<div>
+	[![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)]
+</div>
+
 <div align="center">
 	<h2>👨🏻‍💻 About Me</h2>
 	<p>💼 IT Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from England, UK.</p>
