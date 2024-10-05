@@ -1,8 +1,8 @@
 # Hey I'm Robert! 👋
 
-<ul>
-  <li>💼 IT Specialist from England, UK.</li>
-  <li>🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.</li>
+- 💼 IT Specialist from England, UK.
+- 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
+  
   <li>🔭 My interests include Networking, Cyber Security, Web and Software Development.</li>
   <li>🐙 I like to share projects I develop during my free time.</li>
   <li>📫 Connect with me [here](https://robsd.github.io).</li>
