@@ -1,6 +1,12 @@
 # Hey I'm Robert! 👋
 
-💼 IT Specialist from England, UK.
+<ul>
+  <li>💼 IT Specialist from England, UK.</li>
+  <li>💼 IT Specialist from England, UK.</li>
+  <li>💼 IT Specialist from England, UK.</li>
+  <li>💼 IT Specialist from England, UK.</li>
+</ul>
+
 
 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
 
@@ -19,7 +25,7 @@
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
+
   ![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=dark&line_height=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsd&layout=compact&theme=dark&hide_border=true)
 </details>
