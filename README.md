@@ -5,7 +5,7 @@
 </div>
 
 
-	![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)
+![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)
 	
 
 
