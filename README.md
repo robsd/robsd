@@ -1,5 +1,7 @@
 # Hey I'm Robert! 👋
 
+![Views](https://komarev.com/ghpvc/?username=robsd)
+
 - 💼 IT Specialist from England, UK.
 - 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
 - 🔭 My interests include Networking, Cyber Security, Web and Software Development.
