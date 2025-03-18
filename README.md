@@ -10,10 +10,5 @@
 
 ![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)
 
-![status](https://api.statusbadges.me/badge/status/172462402078507008?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/172462402078507008)
-![vscode](https://api.statusbadges.me/badge/vscode/172462402078507008)
-[![spotify](https://api.statusbadges.me/badge/spotify/172462402078507008)](https://api.statusbadges.me/openspotify/172462402078507008)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=robsd&theme=dark&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsd&layout=compact&theme=dark&hide_border=true)
