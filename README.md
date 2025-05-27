@@ -6,7 +6,7 @@
 - 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
 - 🔭 My interests include Networking, Cyber Security, Web and Software Development.
 - 🐙 I like to share projects I develop during my free time.
-- 📫 Connect with me [here](https://robsd.github.io).
+- 📫 Connect with me [here](https://robertd.uk).
 
 ![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)
 
