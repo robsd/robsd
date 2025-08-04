@@ -13,3 +13,9 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=robsd&theme=dark&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsd&layout=compact&theme=dark&hide_border=true)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=robstewartdixon&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=robstewartdixon&redirect=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsd/robsd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsd/robsd/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
