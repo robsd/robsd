@@ -2,9 +2,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=robsd)
 
-- 💼 IT Specialist from England, UK.
+- 💼 Vulnerability Manager from England, UK.
 - 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
-- 🔭 My interests include Networking, Cyber Security, Web and Software Development.
+- 🔭 Interested in web development, cyber security and homelabbing.
 - 🐙 I like to share projects I develop during my free time.
 - 📫 Connect with me [here](https://robertd.uk).
 
