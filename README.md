@@ -3,9 +3,9 @@
 ![Views](https://komarev.com/ghpvc/?username=robsd)
 
 - 💼 IT Professional from England, UK.
-- 🎓 Holder of a 1st Class Honours BSc in Computer Science.
-- ✅ Certificatied by Microsoft Azure, AWS, Pure Storage and LPI, among other vendors.
-- 🔭 Interested in web development, cyber security and homelabbing.
+- 🎓 1st Class Honours BSc in Computer Science.
+- ✅ Certified by Microsoft Azure, AWS, Pure Storage and LPI, among other vendors.
+- 🔭 Passionate about Web Development, Cyber Security and Homelabbing.
 - 🐙 I like to share projects I develop during my free time.
 - 📫 Connect with me [here](https://robertd.uk).
 
