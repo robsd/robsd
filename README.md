@@ -6,7 +6,7 @@
 - 🎓 1st Class Honours BSc in Computer Science.
 - ✅ Certified by Microsoft Azure, AWS, Pure Storage and LPI, among other vendors.
 - 🔭 Passionate about Web Development, Cyber Security and Homelabbing.
-- 🐙 I like to share projects I develop during my free time.
+- 🐙 Sharing projects I develop during my free time.
 - 📫 Connect with me [here](https://robertd.uk).
 
 ![SkillIcons](https://skillicons.dev/icons?i=aws,ansible,apple,azure,bash,bootstrap,css,cloudflare,debian,discord,docker,firebase,flask,gcp,git,github,gmail,html,instagram,java,js,jquery,kali,linkedin,linux,md,mongodb,mysql,netlify,nginx,nodejs,notion,php,postman,powershell,py,raspberrypi,replit,twitter,ubuntu,vercel,vim,vscode,windows,wordpress)
