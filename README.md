@@ -2,8 +2,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=robsd)
 
-- 💼 Vulnerability Manager from England, UK.
-- 🎓 Holder of a First Class Honours Bachelor of Science (BSc) in Computer Science as well as certifications from Microsoft, AWS and other vendors.
+- 💼 IT Professional from England, UK.
+- 🎓 Holder of a 1st Class Honours BSc in Computer Science.
+- ✅ Certificatied by Microsoft Azure, AWS, Pure Storage and LPI, among other vendors.
 - 🔭 Interested in web development, cyber security and homelabbing.
 - 🐙 I like to share projects I develop during my free time.
 - 📫 Connect with me [here](https://robertd.uk).
